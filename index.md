@@ -17,7 +17,7 @@ This is just another tutorial on logistic regression.
 $$y1 = mx+c $$
 
 Example (1): \\(h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}\\) ;
-example (2): \\(a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}\\)
+example (2): \\(a^2 + b^2 = c^2\\) ; example (3): \\(\sum_{i=1}^m y^{(i)}\\)
 
  {% raw %}
   $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
