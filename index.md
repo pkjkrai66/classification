@@ -2,7 +2,7 @@
 
 This is just another tutorial on logistic regression. 
 
-\( y = mx+c \)
+\\( y = mx+c \\)
 
 
 
