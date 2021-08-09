@@ -1,6 +1,7 @@
 ## Logistic regression|Classification 
 
 This is just another tutorial on logistic regression. 
+
 $$ y = mx+c $$
 
 
