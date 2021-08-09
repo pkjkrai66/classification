@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Logistic regression|Classification 
+
+This is just another tutorial on logistic regression. 
+$$ y = mx+c $$
+
+
 
 You can use the [editor on GitHub](https://github.com/pkjkrai66/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
