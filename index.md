@@ -4,6 +4,10 @@ This is just another tutorial on logistic regression.
 
 \\( y = mx+c \\)
 
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
+
 
 
 You can use the [editor on GitHub](https://github.com/pkjkrai66/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
