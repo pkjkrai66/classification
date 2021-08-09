@@ -6,7 +6,7 @@ This is just another tutorial on logistic regression.
 
 \\[ y = mx+c \\]
 
-$$y = mx+c $$
+$$y1 = mx+c $$
 
 
  {% raw %}
