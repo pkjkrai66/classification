@@ -27,7 +27,7 @@ All training input vectors are arranged in \(N \times m\) training data matrix (
 
 \\[ y = mx+c \\]
 
-$$y1 = mx+c $$
+$$ y1 = mx+c $$
 
 Example (1): \\(h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}\\) ;
 
