@@ -14,11 +14,15 @@ The purpose of logistic regression is to identify equation of a cuvre which dist
 Consider the following data 
 
 
+
 \\( y = mx+c \\)
+
 
 \\[ y = mx+c \\]
 
+
 $$ y1 = mx+c $$
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
