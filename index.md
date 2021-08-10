@@ -14,15 +14,6 @@ The purpose of logistic regression is to identify equation of a cuvre which dist
 Consider the following data 
 
 
-
-
-
-where, \( {{\mathbf{x}}_i} \) is an input vector (independent variable) in \(m\)-dimensional space, $ {\tilde y_i} $ is the corresponding observed value of the dependent variable and \(N\) is the number of observations. 
-All training input vectors are arranged in \(N \times m\) training data matrix (\({\mathbf{X}}\)) and the observations are collectively represented by $N \times 1$ vector, $ {\mathbf{\tilde y}} $.
-
-\\(\bf{x}\\) is an observation in two dimension. 
-
-
 \\( y = mx+c \\)
 
 \\[ y = mx+c \\]
