@@ -13,7 +13,11 @@ This is just another tutorial on logistic regression.
 The purpose of logistic regression is to identify equation of a cuvre which distinguishes two classes which exist in two or higher dimensions, but in this present tutorial we will keep it simple and our data would just be two dimentional. 
 
 Consider the following data 
-$\mathcal{D} = \left\{ {\left( {{{\mathbf{x}}_i},{{\tilde y}_i}} \right)|i = 1, \ldots ,N;{{\mathbf{x}}_i} \in {\mathbb{R}^m};{{\tilde y}_i} \in \mathbb{R}} \right\},$ 
+
+
+
+
+
 where, \( {{\mathbf{x}}_i} \) is an input vector (independent variable) in \(m\)-dimensional space, $ {\tilde y_i} $ is the corresponding observed value of the dependent variable and \(N\) is the number of observations. 
 All training input vectors are arranged in \(N \times m\) training data matrix (\({\mathbf{X}}\)) and the observations are collectively represented by $N \times 1$ vector, $ {\mathbf{\tilde y}} $.
 
