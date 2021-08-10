@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+
+To make **jekyll** server run 
+```
+bundle exec jekyll serve
+```
+
 This is just another tutorial on logistic regression. 
 
 The purpose of logistic regression is to identify equation of a cuvre which distinguishes two classes which exist in two or higher dimensions, but in this present tutorial we will keep it simple and our data would just be two dimentional. 
