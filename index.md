@@ -13,6 +13,8 @@ The purpose of logistic regression is to identify equation of a cuvre which dist
 
 Consider the following data 
 
+$$ y = mx+c $$
+
 $$  \left( {{{\mathbf{x}}_i},{{\tilde y}_i}} \right)  $$
 
 $${{\mathbf{x}}_i}$$
