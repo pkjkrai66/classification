@@ -25,16 +25,6 @@ Consider the following data
 
 5. \\( y = mx+c \\)
 
-
-$$ = \left\{ 
-            {
-                \left( {{{\mathbf{x}}_i},{{\tilde y}_i}} \right)
-                |i = 1, \ldots ,N;{{\mathbf{x}}_i} \in {\mathbb{R}^m};{{\tilde y}_i} \in \mathbb{R}
-            } 
-    \right\}, $$
-
-$$\mathcal{D} = \left\{ {\left( {{{\mathbf{x}}_i},{{\tilde y}_i}} \right)|i = 1, \ldots ,N;{{\mathbf{x}}_i} \in {\mathbb{R}^m};{{\tilde y}_i} \in \mathbb{R}} \right\}, $$
-
 \\( y = mx+c \\)
 
 
