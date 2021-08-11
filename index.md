@@ -15,6 +15,8 @@ Consider the following data
 
 $$ y = mx+c $$
 
+$${{\bf{x}}_i}$$
+
 $$  \left( {{{\mathbf{x}}_i},{{\tilde y}_i}} \right)  $$
 
 $${{\mathbf{x}}_i}$$
