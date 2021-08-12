@@ -17,9 +17,9 @@ Consider the following data
 
 2. $$ \left( {\mathbf{x}}_i, {\tilde{y}}_i \right) $$
 
-3.1 $$ {\mathbf{x}}_i $$
+3. $$ {\mathbf{x}}_i $$
 
-3.2 $$ {{\mathbf{x}}_i} $$
+3. $$ { {\mathbf{x}}_i} $$
 
 4. $$ {\mathbb{R}^m} $$
 
